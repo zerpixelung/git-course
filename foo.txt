@@ -2,3 +2,5 @@ foo
 var
 
 hello world
+
+another test
