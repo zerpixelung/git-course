@@ -4,3 +4,5 @@ var
 hello world
 
 another test
+
+more text
